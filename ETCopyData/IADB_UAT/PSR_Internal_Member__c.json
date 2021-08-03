@@ -1,0 +1,424 @@
+{
+	"fetched": 38,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GggLUAS"
+			},
+			"Id": "a1S1I000002GggLUAS",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684SILVINAMOperationalAnalyst",
+			"PSR_Member_Text__c": "SILVINAM",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GgsbUAC"
+			},
+			"Id": "a1S1I000002GgsbUAC",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414GCRESPITeamMember",
+			"PSR_Member_Text__c": "GCRESPI",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GkRDUA0"
+			},
+			"Id": "a1S1I000002GkRDUA0",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414PAOLAZProjectAssistant",
+			"PSR_Member_Text__c": "PAOLAZ",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GkzgUAC"
+			},
+			"Id": "a1S1I000002GkzgUAC",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684EVELYNVOperationalAnalyst",
+			"PSR_Member_Text__c": "EVELYNV",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002Gl58UAC"
+			},
+			"Id": "a1S1I000002Gl58UAC",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414MCORDEROMIFDesignTeamLeader",
+			"PSR_Member_Text__c": "MCORDERO",
+			"PSR_Role__c": "MIF Design Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GlBEUA0"
+			},
+			"Id": "a1S1I000002GlBEUA0",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414GABRIELATTeamMember",
+			"PSR_Member_Text__c": "GABRIELAT",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GljyUAC"
+			},
+			"Id": "a1S1I000002GljyUAC",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684MARIELSTeamLeader",
+			"PSR_Member_Text__c": "MARIELS",
+			"PSR_Role__c": "Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GoKpUAK"
+			},
+			"Id": "a1S1I000002GoKpUAK",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414SUSANAROAlternateTeamLeader",
+			"PSR_Member_Text__c": "SUSANARO",
+			"PSR_Role__c": "Alternate Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GpHUUA0"
+			},
+			"Id": "a1S1I000002GpHUUA0",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684LDIEGOGOperationalAnalyst",
+			"PSR_Member_Text__c": "LDIEGOG",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GyqFUAS"
+			},
+			"Id": "a1S1I000002GyqFUAS",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684ALUSTOSAOperationalAnalyst",
+			"PSR_Member_Text__c": "ALUSTOSA",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GyroUAC"
+			},
+			"Id": "a1S1I000002GyroUAC",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684ERIKAMAlternateTeamLeader",
+			"PSR_Member_Text__c": "ERIKAM",
+			"PSR_Role__c": "Alternate Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GywbUAC"
+			},
+			"Id": "a1S1I000002GywbUAC",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684MARIAEMTeamMember",
+			"PSR_Member_Text__c": "MARIAEM",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002Gzf0UAC"
+			},
+			"Id": "a1S1I000002Gzf0UAC",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684MARIEMVOperationalAnalyst",
+			"PSR_Member_Text__c": "MARIEMV",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002GzhSUAS"
+			},
+			"Id": "a1S1I000002GzhSUAS",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684JOSSETTEHProjectAssistant",
+			"PSR_Member_Text__c": "JOSSETTEH",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H0DaUAK"
+			},
+			"Id": "a1S1I000002H0DaUAK",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684SOFIADOperationalAnalyst",
+			"PSR_Member_Text__c": "SOFIAD",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H21NUAS"
+			},
+			"Id": "a1S1I000002H21NUAS",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414GEORGEROAttorney",
+			"PSR_Member_Text__c": "GEORGERO",
+			"PSR_Role__c": "Attorney"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H3yhUAC"
+			},
+			"Id": "a1S1I000002H3yhUAC",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414JOSSETTEHProjectAssistant",
+			"PSR_Member_Text__c": "JOSSETTEH",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H5McUAK"
+			},
+			"Id": "a1S1I000002H5McUAK",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684CARRASCOCTeamMember",
+			"PSR_Member_Text__c": "CARRASCOC",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H6aJUAS"
+			},
+			"Id": "a1S1I000002H6aJUAS",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414EPIRIZOperationalAnalyst",
+			"PSR_Member_Text__c": "EPIRIZ",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H6mCUAS"
+			},
+			"Id": "a1S1I000002H6mCUAS",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684JPEDEFLOUSAttorney",
+			"PSR_Member_Text__c": "JPEDEFLOUS",
+			"PSR_Role__c": "Attorney"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H8duUAC"
+			},
+			"Id": "a1S1I000002H8duUAC",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684GYOUNGCAlternateTeamLeader",
+			"PSR_Member_Text__c": "GYOUNGC",
+			"PSR_Role__c": "Alternate Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002H9GGUA0"
+			},
+			"Id": "a1S1I000002H9GGUA0",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684CDESTEFANOOperationalAnalyst",
+			"PSR_Member_Text__c": "CDESTEFANO",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HBRQUA4"
+			},
+			"Id": "a1S1I000002HBRQUA4",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684PAOLAZProjectAssistant",
+			"PSR_Member_Text__c": "PAOLAZ",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HByDUAW"
+			},
+			"Id": "a1S1I000002HByDUAW",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684ESTHERRTeamMember",
+			"PSR_Member_Text__c": "ESTHERR",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HCuXUAW"
+			},
+			"Id": "a1S1I000002HCuXUAW",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684MARIATVTeamMember",
+			"PSR_Member_Text__c": "MARIATV",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HCxgUAG"
+			},
+			"Id": "a1S1I000002HCxgUAG",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414ANACTeamLeader",
+			"PSR_Member_Text__c": "ANAC",
+			"PSR_Role__c": "Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HDUzUAO"
+			},
+			"Id": "a1S1I000002HDUzUAO",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684FCARDACCIOperationalAnalyst",
+			"PSR_Member_Text__c": "FCARDACCI",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HHYnUAO"
+			},
+			"Id": "a1S1I000002HHYnUAO",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684VALERIADIOperationalAnalyst",
+			"PSR_Member_Text__c": "VALERIADI",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1S1I000002HSE7UAO"
+			},
+			"Id": "a1S1I000002HSE7UAO",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414EVELYNVOperationalAnalyst",
+			"PSR_Member_Text__c": "EVELYNV",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005fXCtMAM"
+			},
+			"Id": "a1SJ0000005fXCtMAM",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414SUSANAROTeamMember",
+			"PSR_Member_Text__c": "SUSANARO",
+			"PSR_Role__c": "Team Member"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005fXFEMA2"
+			},
+			"Id": "a1SJ0000005fXFEMA2",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414CARRASCOCAlternateTeamLeader",
+			"PSR_Member_Text__c": "CARRASCOC",
+			"PSR_Role__c": "Alternate Team Leader"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005g7EAMAY"
+			},
+			"Id": "a1SJ0000005g7EAMAY",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684ginachProjectAssistant",
+			"PSR_Member_Text__c": "GINACH",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005g7EMMAY"
+			},
+			"Id": "a1SJ0000005g7EMMAY",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414ginachProjectAssistant",
+			"PSR_Member_Text__c": "GINACH",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005g7EQMAY"
+			},
+			"Id": "a1SJ0000005g7EQMAY",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684yoselinaProjectAssistant",
+			"PSR_Member_Text__c": "YOSELINA",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005g7MXMAY"
+			},
+			"Id": "a1SJ0000005g7MXMAY",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414yoselinaProjectAssistant",
+			"PSR_Member_Text__c": "YOSELINA",
+			"PSR_Role__c": "Project Assistant"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005gHKsMAM"
+			},
+			"Id": "a1SJ0000005gHKsMAM",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684IVONNEROperationalAnalyst",
+			"PSR_Member_Text__c": "IVONNER",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005gHKxMAM"
+			},
+			"Id": "a1SJ0000005gHKxMAM",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Internal_Member_Id__c": "50684FLOTANOOperationalAnalyst",
+			"PSR_Member_Text__c": "FLOTANO",
+			"PSR_Role__c": "Operational Analyst"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Internal_Member__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Internal_Member__c/a1SJ0000005gKqiMAE"
+			},
+			"Id": "a1SJ0000005gKqiMAE",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Internal_Member_Id__c": "49414DAYANAVOperationalAnalyst",
+			"PSR_Member_Text__c": "DAYANAV",
+			"PSR_Role__c": "Operational Analyst"
+		}
+	],
+	"total": 38
+}

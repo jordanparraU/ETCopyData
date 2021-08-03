@@ -1,0 +1,146 @@
+{
+	"fetched": 7,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051WwXIAU"
+			},
+			"Id": "a1sJ00000051WwXIAU",
+			"Name": "Falta de pipeline de calidad para ser incubados y acelerados",
+			"PSR_Description__c": "Falta de pipeline de calidad para ser incubados y acelerados",
+			"PSR_Impact_Area__c": "Final Outcome, Intermediary Outcome",
+			"PSR_Impact_Final_Outcome__c": true,
+			"PSR_Impact_Intermediary_Outcome__c": true,
+			"PSR_Mitigation_action__c": "(i) se desarrollarán campañas de identificación y búsqueda a través de socios especializados, como universidades; (ii) se creará una nueva línea de negocios de emprendimiento corporativo a través de la cual se espera generar nuevos emprendimientos; (iii) el alcance de Thales Lab se extenderá a Brasil (sur) y Paraguay",
+			"PSR_Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Probability__c": "Low 40%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "UR-T1154R1",
+			"PSR_Severity__c": "(4) High",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		},
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051X2NIAU"
+			},
+			"Id": "a1sJ00000051X2NIAU",
+			"Name": "Baja demanda por participación en los programas del proyecto",
+			"PSR_Description__c": "Baja demanda por participación en los programas del proyecto",
+			"PSR_Impact_Area__c": "Final Outcome, Intermediary Outcome",
+			"PSR_Impact_Final_Outcome__c": true,
+			"PSR_Impact_Intermediary_Outcome__c": true,
+			"PSR_Mitigation_action__c": "campaña integral de comunicación a través de redes de amplio alcance, tales como Universia, las propias universidades, así como otros actores del ecosistema (aceleradoras, asociaciones de emprendedores, etc.) de los distintos países en los que operará el proyecto.",
+			"PSR_Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Probability__c": "Low 40%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "RG-T3019R3",
+			"PSR_Severity__c": "(4) High",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		},
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051X50IAE"
+			},
+			"Id": "a1sJ00000051X50IAE",
+			"Name": "Capacidades de gestión de RedEmprendia",
+			"PSR_Description__c": "Capacidades de gestión de RedEmprendia",
+			"PSR_Impact_Area__c": "Final Outcome, Intermediary Outcome",
+			"PSR_Impact_Final_Outcome__c": true,
+			"PSR_Impact_Intermediary_Outcome__c": true,
+			"PSR_Mitigation_action__c": "RedEmprendia pondrá a disposición del proyecto la experiencia previa, de equipos altamente profesionales, en la coordinación de proyectos ejecutados con 28 universidades de Iberoamérica. Asimismo, RedEmprendia destinará esfuerzos especiales para, además de lograr el buy-in, construir y dejar capacidades instaladas en los equipos de las universidades participantes.",
+			"PSR_Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Probability__c": "Medium 60%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "RG-T3019R2",
+			"PSR_Severity__c": "(4) High",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		},
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051XAlIAM"
+			},
+			"Id": "a1sJ00000051XAlIAM",
+			"Name": "Desempeño de las startups menor al esperado:",
+			"PSR_Description__c": "Desempeño de las startups menor al esperado:",
+			"PSR_Impact_Area__c": "Final Outcome, Intermediary Outcome",
+			"PSR_Impact_Final_Outcome__c": true,
+			"PSR_Impact_Intermediary_Outcome__c": true,
+			"PSR_Mitigation_action__c": "(i) las fases de ideación y validación actuarán como instancia de filtro en la construcción del portafolio y mitigación de riesgo de negocio; (ii) a través del proyecto se proveerá asistencia técnica especializada a las empresas de cara a implementar sus planes de crecimiento; (iii) las startups apoyadas serán derivadas en sus siguientes fases a otros socios del FOMIN como Endeavor, NXTPLabs, XCALA red de Inversores Angeles, u otros actores del ecosistema, que están necesitando pipeline y dealflow de calidad.",
+			"PSR_Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Probability__c": "Medium 60%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "UR-T1154R2",
+			"PSR_Severity__c": "(4) High",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		},
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051XCLIA2"
+			},
+			"Id": "a1sJ00000051XCLIA2",
+			"Name": "Dificultades en la expansión del proyecto hacia Brasil (sur) y Paraguay:",
+			"PSR_Description__c": "Dificultades en la expansión del proyecto hacia Brasil (sur) y Paraguay:",
+			"PSR_Impact_Area__c": "Fortalecimiento y expansión de Thales Lab",
+			"PSR_Impact_Final_Outcome__c": false,
+			"PSR_Impact_Intermediary_Outcome__c": false,
+			"PSR_Mitigation_action__c": "(i) inicialmente Thales Lab se apalancará en la estructura y conexiones de Genexus en ambos países; (ii) se formarán equipos locales propios de Thales Lab; (ii) en el caso de Paraguay, el proyecto se articulará con el PR-M1038 “Consolidación de un modelo de laboratorio de Innovación Social: Koga Impact Lab” (iii) en el caso de Brasil, se articulará particularmente con el proyecto recientemente aprobado BR-T1346 “Promoción del Ecosistema de Inversión y Emprendimiento de Impacto Socio-ambiental”.",
+			"PSR_Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Probability__c": "Medium 60%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "UR-T1154R8",
+			"PSR_Severity__c": "(2) Low",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		},
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051XVVIA2"
+			},
+			"Id": "a1sJ00000051XVVIA2",
+			"Name": "Insuficiente capitalización del vehículo de inversión de StarLabs",
+			"PSR_Description__c": "Insuficiente capitalización del vehículo de inversión de StarLabs",
+			"PSR_Impact_Area__c": "Final Outcome",
+			"PSR_Impact_Final_Outcome__c": true,
+			"PSR_Impact_Intermediary_Outcome__c": false,
+			"PSR_Mitigation_action__c": "RedEmprendia cuenta con el respaldo financiero de Banco Santander para la constitución del fondo y que en los países de intervención del proyecto existe un incipiente número de fondos de capital semilla y emprendedor, en búsqueda de oportunidades de inversión en áreas STEM desarrolladas por startups.",
+			"PSR_Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Probability__c": "Low 40%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "RG-T3019R1",
+			"PSR_Severity__c": "(4) High",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		},
+		{
+			"attributes": {
+				"type": "PSR_Risk__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Risk__c/a1sJ00000051XtHIAU"
+			},
+			"Id": "a1sJ00000051XtHIAU",
+			"Name": "No existe interés a nivel de grandes empresas del país en embarcarse en programa",
+			"PSR_Description__c": "No existe interés a nivel de grandes empresas del país en embarcarse en programas de innovación corporative",
+			"PSR_Impact_Area__c": "Intermediary Outcome",
+			"PSR_Impact_Final_Outcome__c": false,
+			"PSR_Impact_Intermediary_Outcome__c": true,
+			"PSR_Mitigation_action__c": "Se genera actividades de diffusion comunicando casos de exito",
+			"PSR_Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Probability__c": "Medium 60%",
+			"PSR_Responsible__c": "Project Coordinator",
+			"PSR_Risk_ID__c": "UR-T1154R4",
+			"PSR_Severity__c": "(2) Low",
+			"PSR_Status__c": "In Effect",
+			"PSR_Suboperation__c": null
+		}
+	],
+	"total": 7
+}

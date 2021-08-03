@@ -1,0 +1,168 @@
+{
+    "now": "2021-03-02T21:19:15.297Z",
+    "orgSource": "IADB_UAT",
+    "orgDestination": "HOTFIX-PSR",
+    "sObjectsData": [
+        {
+            "name": "Account",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate,CloudingoAgent__CES__pc,MktCloudSyncStatusMessage__pc,Position_Stakeholder__pc,CloudingoAgent__ORDI__pc,MiddleName__pc,Linkedin__pc,ID_External_System__pc,Inactive__pc,MktCloudSyncStatus__pc,CloudingoAgent__OTZ__pc,CloudingoAgent__MAS__pc,Media_Organization_Type__pc,AI_Technology__pc,CloudingoAgent__MRDI__pc,VIP__pc,AI_Sub_Area__pc,Suffix,scanbizcards__SBCCity__pc,CloudingoAgent__OAV__pc,Email_Sent_Status__pc,Account_Website__pc,CloudingoAgent__MAV__pc,IsInfluencer__pc,PreferredLanguagePC__pc,Position__pc,LastName__pc,Salutation,scanbizcards__ScanBizCards__pc,FirstName,Language__pc,Skype__pc,Self_Reported_Institution_Name__pc,Additional_e_mail__pc,CloudingoAgent__OAR__pc,VPF__pc,AI_LastActivityDate_PAC__pc,Is_Description_Blank__pc,Position_Type_for_Journalist__pc,FirstName__pc,CloudingoAgent__MAR__pc,CloudingoAgent__MTZ__pc,Program__pc,et4ae5__Mobile_Country_Code__pc,Self_Reported_Institution_Type__pc,LastName,AI_Area__pc,Twitter__pc,Phone_Extension__pc,Email_Migration__pc,GenderPC__pc,et4ae5__HasOptedOutOfMobile__pc,CloudingoAgent__OAS__pc,MiddleName,Gender__pc,ContactIdLong__pc,Asst_Email__pc,URL_Public_Profile__pc,Country_of_Residence__pc,Mobile__pc,RecordTypeName__pc,NumberOfSubscribers__pc,ORP_Used_by_ORP__pc,ParentContact__pc,ORP_Name_of_Occasion__pc,ORP_Is_It_a_Confidential_Contact__pc,Role__pc,AI_Validation_Status__c",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "ParentContact__pc",
+            "where": "Id in('0011I00000cijL4QAI', '0011I00000cikjCQAQ')"
+        },
+        {
+            "name": "Contact",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "ReportsToId,ParentContact__c",
+            "where": "AccountId in('0011I00000cijL4QAI', '0011I00000cikjCQAQ')"
+        },
+        {
+            "name": "PSR_Sub_Operation__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "PSR_Category86__c,PSR_MilestonePriorCondition__c,PSR_NextMilestoneAboutToDue__c,PSR_LastDisbursementTransaction__c,PSR_LatestPSR__c",
+            "where": "Id in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "Operation__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Id in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "Operations_Relationship__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "Client__c",
+            "where": "Type__c = 'Executing Agency' and Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Operation_Date__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Internal_Member__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Final_Outcome__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Intermediary_Outcome__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Component__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Indicator__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Final_Outcome__r.Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY') or PSR_Intermediary_Outcome__r.Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY') or PSR_Component__r.PSR_Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Risk__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Operation__c in('a0X1I000002pqt0UAA', 'a0X1I000002prNCUAY')"
+        },
+        {
+            "name": "PSR_Category__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "PSR_Transaction__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "PSR_Project_Status_Report__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "PSR_Lesson_Learned__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "PSR_Product__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "PSR_Milestone_Execution__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        },
+        {
+            "name": "PSR_Milestone_Report__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "PSR_Milestone_Execution__r.PSR_Suboperation__c in('a1t1I000001ELCWQA4', 'a1t1I000001EL3UQAW')"
+        }
+    ],
+    "sObjectsMetadata": [],
+    "rootFolder": "./ETCopyData",
+    "includeAllCustom": false,
+    "stopOnErrors": true,
+    "ignoreFields": "OwnerId, CreatedBy, CreatedDate",
+    "twoPassReferenceFields": null,
+    "maxRecordsEach": null,
+    "deleteDestination": true,
+    "pollingTimeout": 100000
+}

@@ -1,0 +1,149 @@
+{
+	"fetched": 11,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000azYIQAY"
+			},
+			"Id": "a1f1I000000azYIQAY",
+			"Lesson__c": "En el segundo ano de ejecucion del programa estaba previsto que Thales  Lab pudiera internacionalizar su propuesta de valor. A pesar de algunos intentos hechos, esto lleva mucho más tiempo de lo estimado originalmente. Hay que analizar los mercados, los competidores, los partners estrategicos y cual es el varlor que en este caso Thales podría ofertar en cada mercado.  Disponer de alternativas y tomarse el tiempo para analizar los pros y cons es una buena practica, y compensa los retrasos que puede tener en el proyecto, ya que la inversion requerida para internacionalizarse no es menor.",
+			"PSR_Author__c": "Ana Castillo Leska",
+			"PSR_Creation_Date__c": "2019-02-26",
+			"PSR_Lesson_Learned_ID__c": "22860",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000azYWQAY"
+			},
+			"Id": "a1f1I000000azYWQAY",
+			"Lesson__c": "Una de las lecciones aprendidas en el proceso de corporate venture ha sido la necesidad de hacer pasar a las empresas por un proceso de nivelación digital. En empresas de sectores tradicionales, el poco conocimiento de sus recursos humanos sobre las potencialidades que puede tener la tecnología en la mejora de la eficiencia e incluso en los cambios en los modelos de negocio es una limitante. Esto hace revisar las etapas del modelo de corporate venture originalmente previsto y que solo se habia testeado en empresas tecnológicas.",
+			"PSR_Author__c": "Ana Castillo Leska",
+			"PSR_Creation_Date__c": "2018-02-27",
+			"PSR_Lesson_Learned_ID__c": "21192",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000azYnQAI"
+			},
+			"Id": "a1f1I000000azYnQAI",
+			"Lesson__c": "En el proceso de implementación de actividades de corporate venture con sectores tradicionales de la economía, Thales Lab se enfrentó al bajo grado de  conocimiento de las tecnologías digitales de parte de la empresa. Realizar una nivelación (formación) en tecnologías fue incorporado dentro del proceso. Esto debe ser tenido en cuenta en cualquier proceso donde uno quiera introducir innovaciones digitales en sectores tradicionales de la economía.",
+			"PSR_Author__c": "Ana Castillo Leska",
+			"PSR_Creation_Date__c": "2018-08-30",
+			"PSR_Lesson_Learned_ID__c": "22121",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000b3ybQAA"
+			},
+			"Id": "a1f1I000000b3ybQAA",
+			"Lesson__c": "Muchos emprendedores que no saben qué es lo que quieren sus clientes y no quieren/pueden salir a validar su idea.\nA varias (sino a todas) le faltan capacidades de diseño, marketing, marketing digital y ventas.\nLa mayoría de los emprendedores gastan todos sus recursos en el desarrollo del producto, y cuando tienen que invertir en lanzarlo al mercado, e iterar para optimizar su crecimiento, no tienen el tiempo, la energía, ni dinero para hacerlo.\n--- \nLa metodología de ThalesLab, así como las actividades de apoyo técnico del proyecto FOMIN, están diseñadas para transmitir las habilidades en metodología de desarrollo de clientes, marketing y ventas que adolecen la mayoría de los equipos.",
+			"PSR_Author__c": "Flavio Caiafa",
+			"PSR_Creation_Date__c": "2018-08-14",
+			"PSR_Lesson_Learned_ID__c": "22083",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000b3ycQAA"
+			},
+			"Id": "a1f1I000000b3ycQAA",
+			"Lesson__c": "La gran mayoría de los emprendedores son part time, por lo que el tiempo disponible para la startup es poco y fraccionado. Esto a su vez dificulta la definición de metas semanales o bisemanales y por tanto las iteraciones rápidas requeridas por la metodología Lean Startup.\nEn general cada emprendedor tiene un trabajo principal, y muchas veces crean una 2a startup, con lo que el foco y la dedicación en cada una sufre (y enmascara el poco avance en cada uno de los emprendimientos).\n--- \nLa solución es que haya un proceso de inducción que especifique claramente el esfuerzo necesario para llevar a cabo una startup, tal vez definiendo una carga horaria mínima por semana para la startup. A su vez, podríamos exigir que durante el período de incubación sólo puedan trabajar en un emprendimiento, que sabemos que podrá pivotar y convertirse en otro producto y servicio, pero seguirá siendo solo un emprendimiento.",
+			"PSR_Author__c": "Flavio Caiafa",
+			"PSR_Creation_Date__c": "2018-08-14",
+			"PSR_Lesson_Learned_ID__c": "22084",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000b3ydQAA"
+			},
+			"Id": "a1f1I000000b3ydQAA",
+			"Lesson__c": "El pipeline de startups o proyectos de calidad está siendo más bajo del esperado. Hemos identificado que esto puede deberse a la falta de conocimiento de la propuesta de valor de ThalesLab entre los emprendedores locales (combinado con una gran oferta de instituciones de apoyo a los emprendedores).\n---\nPara revertir esta situación, estamos trabajando actualmente en dos grandes áreas: 1) Mejorar la difusión de la propuesta de ThalesLab como company builder e incubadora. Para esto estamos rediseñando nuestra página web, aumentando considerablemente nuestra actividad en redes sociales, y realizando más eventos de difusión y promoción. 2) Asimismo, comenzamos a analizar nuestra propuesta de valor, de cara a mejorar la misma para el 2019. Para esto comenzamos haciendo entrevistas a nuestros emprendedores, y realizando un benchmark con las propuestas de incubadoras locales y del exterior más exitosas.",
+			"PSR_Author__c": "Flavio Caiafa",
+			"PSR_Creation_Date__c": "2019-01-31",
+			"PSR_Lesson_Learned_ID__c": "22616",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000b3yeQAA"
+			},
+			"Id": "a1f1I000000b3yeQAA",
+			"Lesson__c": "El desarrollo de las startups está siendo más lento que el esperado. Originalmente aspiramos a que durante la fase de Validacio´n, las startups podrían desarrollar una primera versio´n del producto (5 a 6 meses). Lo que estamos observando es que por lo general este proceso demora un año o más. Esto está relacionado con el hecho de que muchos emprendedores son part-time. Esto se combina con que para acceder a capital semilla de ANII, es necesario realizar un proceso de validación que de por sí insume varios meses.\n---\nPara evitar que esta realidad enlentezca el proceso de creación de nuevos emprendimientos, lo que nos proponemos a partir del 2o batch de 2018 es cumplir con el programa de capacitación de la fase de validación en el tiempo pautado, y realizar un seguimiento de cada proyecto luego de esta fase en forma de office hours, individuales o grupales, que nos permitan realizar el seguimiento de las startups, luego de la etapa de capacitación.",
+			"PSR_Author__c": "Flavio Caiafa",
+			"PSR_Creation_Date__c": "2019-01-31",
+			"PSR_Lesson_Learned_ID__c": "22618",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1f1I000000b3yfQAA"
+			},
+			"Id": "a1f1I000000b3yfQAA",
+			"Lesson__c": "El acceso a la capacidad técnica de los cofundadores tecnológicos es uno de los aspectos más buscados y valorados por los emprendedores que postulan a ThalesLab. Los cofundadores tecnológicos permiten que emprendedores expertos en una industria o sector, adquieran la capacidad técnica de la que carecen para desarrollar su emprendimiento. Desde que comenzamos a trabajar con cofundadores tecnológicos, hemos promovido a acuerdos basados en la confianza y la buena voluntad de ambas partes. Sin embargo, hemos constatado que en ciertas ocasiones este mecanismo no alcanza, generando separaciones que consumen la energía de ambas partes y amenazan al emprendimiento.\n---\nPara reducir estos conflictos hemos escrito una serie de recomendaciones, basadas en nuestra experiencia, donde recomendamos una serie de temas o puntos acordar de antemano, gestionando así las expectativas de ambas partes, y proponiendo mecanismos de resolución de conflictos, antes de que estos comiencen.",
+			"PSR_Author__c": "Flavio Caiafa",
+			"PSR_Creation_Date__c": "2019-01-31",
+			"PSR_Lesson_Learned_ID__c": "22619",
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001EL3UQAW"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1fJ0000004XKu0IAG"
+			},
+			"Id": "a1fJ0000004XKu0IAG",
+			"Lesson__c": "Leccion 1",
+			"PSR_Author__c": "Gri",
+			"PSR_Creation_Date__c": "2020-01-31",
+			"PSR_Lesson_Learned_ID__c": null,
+			"PSR_Project_Cycle__c": "Design",
+			"PSR_Suboperation__c": "a1t1I000001ELCWQA4"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1fJ0000004XKu1IAG"
+			},
+			"Id": "a1fJ0000004XKu1IAG",
+			"Lesson__c": "Leccion 2",
+			"PSR_Author__c": "Jose",
+			"PSR_Creation_Date__c": "2020-01-31",
+			"PSR_Lesson_Learned_ID__c": null,
+			"PSR_Project_Cycle__c": "Sustainability",
+			"PSR_Suboperation__c": "a1t1I000001ELCWQA4"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Lesson_Learned__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Lesson_Learned__c/a1fJ0000004XKu5IAG"
+			},
+			"Id": "a1fJ0000004XKu5IAG",
+			"Lesson__c": "Leccion 3",
+			"PSR_Author__c": "Gri",
+			"PSR_Creation_Date__c": "2020-01-31",
+			"PSR_Lesson_Learned_ID__c": null,
+			"PSR_Project_Cycle__c": "Implementation",
+			"PSR_Suboperation__c": "a1t1I000001ELCWQA4"
+		}
+	],
+	"total": 11
+}

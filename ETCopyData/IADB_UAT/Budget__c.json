@@ -1,0 +1,24 @@
+{
+	"fetched": 1,
+	"records": [
+		{
+			"attributes": {
+				"type": "Budget__c",
+				"url": "/services/data/v49.0/sobjects/Budget__c/a10J0000004fpPWIAY"
+			},
+			"Amount__c": 150000,
+			"Available_Amount__c": 124150,
+			"Budget_Type__c": "C&D",
+			"End_date__c": "2020-12-31",
+			"Id": "a10J0000004fpPWIAY",
+			"Name": "PRUEBA 2020",
+			"Pending_Approval_Amount__c": 2100,
+			"Start_date__c": "2019-01-01",
+			"Total_Approved_Amount__c": 4000,
+			"Total_Executed_Amount__c": 21850,
+			"Total_Requested_Amount__c": 34200,
+			"Year__c": "2020"
+		}
+	],
+	"total": 1
+}

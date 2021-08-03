@@ -1,0 +1,57 @@
+{
+	"fetched": 3,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Product__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Product__c/a1mJ0000002QuPJIA0"
+			},
+			"Id": "a1mJ0000002QuPJIA0",
+			"PSR_Access__c": "IDB",
+			"PSR_Author__c": "Gri",
+			"PSR_Copyright__c": "2018",
+			"PSR_Creation_Date__c": null,
+			"PSR_Keywords__c": "Prod 1",
+			"PSR_Price__c": null,
+			"PSR_Product_ID__c": null,
+			"PSR_Suboperation__c": "a1t1I000001ELCWQA4",
+			"PSR_Subtype__c": "Case Study",
+			"PSR_Type__c": "Knowledge Products"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Product__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Product__c/a1mJ0000002QuPKIA0"
+			},
+			"Id": "a1mJ0000002QuPKIA0",
+			"PSR_Access__c": null,
+			"PSR_Author__c": null,
+			"PSR_Copyright__c": null,
+			"PSR_Creation_Date__c": null,
+			"PSR_Keywords__c": "Prod 3",
+			"PSR_Price__c": null,
+			"PSR_Product_ID__c": null,
+			"PSR_Suboperation__c": "a1t1I000001ELCWQA4",
+			"PSR_Subtype__c": "Project Fact Sheet",
+			"PSR_Type__c": "Administrative Management Products"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Product__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Product__c/a1mJ0000002QuPOIA0"
+			},
+			"Id": "a1mJ0000002QuPOIA0",
+			"PSR_Access__c": null,
+			"PSR_Author__c": "Jose",
+			"PSR_Copyright__c": "2020",
+			"PSR_Creation_Date__c": null,
+			"PSR_Keywords__c": "Prod 2",
+			"PSR_Price__c": null,
+			"PSR_Product_ID__c": null,
+			"PSR_Suboperation__c": "a1t1I000001ELCWQA4",
+			"PSR_Subtype__c": "Methodologies/Training materials",
+			"PSR_Type__c": "Knowledge Products"
+		}
+	],
+	"total": 3
+}

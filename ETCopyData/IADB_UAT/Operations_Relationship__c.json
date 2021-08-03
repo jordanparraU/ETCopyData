@@ -1,0 +1,28 @@
+{
+	"fetched": 2,
+	"records": [
+		{
+			"attributes": {
+				"type": "Operations_Relationship__c",
+				"url": "/services/data/v51.0/sobjects/Operations_Relationship__c/a0d1I000005uB2yQAE"
+			},
+			"Client__c": "0011I00000cikjCQAQ",
+			"Id": "a0d1I000005uB2yQAE",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"RelationshipKey__c": "UR-T1154|BV-THALESLAB|Executing Agency",
+			"Type__c": "Executing Agency"
+		},
+		{
+			"attributes": {
+				"type": "Operations_Relationship__c",
+				"url": "/services/data/v51.0/sobjects/Operations_Relationship__c/a0d1I000005uD6JQAU"
+			},
+			"Client__c": "0011I00000cijL4QAI",
+			"Id": "a0d1I000005uD6JQAU",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"RelationshipKey__c": "RG-T3019|AR-ACES|Executing Agency",
+			"Type__c": "Executing Agency"
+		}
+	],
+	"total": 2
+}

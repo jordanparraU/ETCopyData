@@ -1,0 +1,28 @@
+{
+	"fetched": 2,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Intermediary_Outcome__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Intermediary_Outcome__c/a1R1I00000142M8UAI"
+			},
+			"Id": "a1R1I00000142M8UAI",
+			"Name": "Nuevos emprendimientos, especialmente lideardos por mujeres, que surjan de las U",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Description__c": "Nuevos emprendimientos, especialmente lideardos por mujeres, que surjan de las Universidades, logren acceder al financiamiento, aumenten su productividad, crezcan y creen puestos de trabajo en los sectores de las nuevas economías",
+			"PSR_Intermediary_Outcome_ID__c": "RG-T3019IO"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Intermediary_Outcome__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Intermediary_Outcome__c/a1R1I00000142URUAY"
+			},
+			"Id": "a1R1I00000142URUAY",
+			"Name": "Consolidar el modelo de Thales Lab, un company builder tecnológico en Uruguay",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Description__c": "Consolidar el modelo de Thales Lab, un company builder tecnológico en Uruguay",
+			"PSR_Intermediary_Outcome_ID__c": "UR-T1154IO"
+		}
+	],
+	"total": 2
+}

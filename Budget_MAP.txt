@@ -1,0 +1,32 @@
+{
+    "now": "2020-07-01T16:45:24.971Z",
+    "orgSource": "Uat",
+    "orgDestination": "Hotfix",
+    "sObjectsData": [
+        {
+            "name": "Budget__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Id in('a10J0000004fpPWIAY')"
+        },
+        {
+            "name": "Budget_Request__c",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "",
+            "where": "Budget__c in('a10J0000004fpPWIAY')"
+        }
+    ],
+    "sObjectsMetadata": [],
+    "rootFolder": "./ETCopyData",
+    "includeAllCustom": false,
+    "stopOnErrors": true,
+    "ignoreFields": "OwnerId, CreatedBy, CreatedDate",
+    "twoPassReferenceFields": null,
+    "maxRecordsEach": null,
+    "deleteDestination": true,
+    "pollingTimeout": 100000
+}

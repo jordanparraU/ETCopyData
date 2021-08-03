@@ -1,0 +1,28 @@
+{
+	"fetched": 2,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Final_Outcome__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Final_Outcome__c/a1Q1I000001hm53UAA"
+			},
+			"Id": "a1Q1I000001hm53UAA",
+			"Name": "El objetivo del proyecto es facilitar la construcción del ecosistema para el emp",
+			"Operation__c": "a0X1I000002pqt0UAA",
+			"PSR_Description__c": "El objetivo del proyecto es facilitar la construcción del ecosistema para el emprendimiento y la innovación de las mujeres, desde las universidades, en las carreras STEM",
+			"PSR_Final_Outcome_ID__c": "RG-T3019FO"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Final_Outcome__c",
+				"url": "/services/data/v51.0/sobjects/PSR_Final_Outcome__c/a1Q1I000001hm6vUAA"
+			},
+			"Id": "a1Q1I000001hm6vUAA",
+			"Name": "Promover la creación de emprendimientos de base tecnológica en el Cono Sur",
+			"Operation__c": "a0X1I000002prNCUAY",
+			"PSR_Description__c": "Promover la creación de emprendimientos de base tecnológica en el Cono Sur",
+			"PSR_Final_Outcome_ID__c": "UR-T1154FO"
+		}
+	],
+	"total": 2
+}

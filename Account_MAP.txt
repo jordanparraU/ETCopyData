@@ -1,0 +1,33 @@
+{
+    "now": "2020-06-03T04:07:42.170Z",
+    "orgSource": "iadb_uat",
+    "orgDestination": "hotfix",
+    "sObjectsData": [
+        {
+            "name": "Account",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate,CloudingoAgent__CES__pc,MktCloudSyncStatusMessage__pc,Position_Stakeholder__pc,CloudingoAgent__ORDI__pc,MiddleName__pc,Linkedin__pc,ID_External_System__pc,Inactive__pc,MktCloudSyncStatus__pc,CloudingoAgent__OTZ__pc,CloudingoAgent__MAS__pc,Media_Organization_Type__pc,AI_Technology__pc,CloudingoAgent__MRDI__pc,VIP__pc,AI_Sub_Area__pc,Suffix,scanbizcards__SBCCity__pc,CloudingoAgent__OAV__pc,Email_Sent_Status__pc,Account_Website__pc,CloudingoAgent__MAV__pc,IsInfluencer__pc,PreferredLanguagePC__pc,Position__pc,LastName__pc,Salutation,scanbizcards__ScanBizCards__pc,FirstName,Language__pc,Skype__pc,Self_Reported_Institution_Name__pc,Additional_e_mail__pc,CloudingoAgent__OAR__pc,VPF__pc,AI_LastActivityDate_PAC__pc,Is_Description_Blank__pc,Position_Type_for_Journalist__pc,FirstName__pc,CloudingoAgent__MAR__pc,CloudingoAgent__MTZ__pc,Program__pc,et4ae5__Mobile_Country_Code__pc,Self_Reported_Institution_Type__pc,LastName,AI_Area__pc,Twitter__pc,Phone_Extension__pc,Email_Migration__pc,GenderPC__pc,et4ae5__HasOptedOutOfMobile__pc,CloudingoAgent__OAS__pc,MiddleName,Gender__pc,ContactIdLong__pc,Asst_Email__pc,URL_Public_Profile__pc,Country_of_Residence__pc,Mobile__pc, RecordTypeName__pc, NumberOfSubscribers__pc, ORP_Used_by_ORP__pc",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "ParentContact__pc",
+            "where": "Id in('0011I00000cijyxQAA','0011I00000cikjNQAQ','0011I00000cikjSQAQ','0011I00000cikjhQAA','0011I00000cike9QAA','0011I00000cijo9QAA','0011I00000cijzcQAA','0011I00000cikfrQAA','0011I00000cikjlQAA','0011I00000cikj8QAA','0011I00000cikQ1QAI','0011I00000cijLEQAY','0011I00000cijL4QAI','0011I000018sxSDQAY','0011I00000cikeDQAQ','0011I00000cikPTQAY','0011I00000cikYQQAY','0011I000018svfQQAQ','0011I00000cikfYQAQ','0011I00000cikf3QAA','0011I00000cikigQAA','0011I00000cijp3QAA','0011I00000cikiZQAQ','0011I00000cRwIMQA0','0011I00000cRviLQAS','0011I00000cij8gQAA','0011I00000cijDxQAI','0011I00000cij8pQAA','0011I00000cij8mQAA','0011I00000cijCGQAY','0011I00000cRwIOQA0','0011I00000cijIPQAY','0011I00000cijKOQAY','0011I00000cijDtQAI','0011I000018sxKsQAI','0011I00000cijpnQAA','0011I00000cilwVQAQ','0011I00000cikibQAA','0011I00000cijpWQAQ','0011I00000cikfwQAA','0011I00000cikjgQAA','0011I00000cikeYQAQ','0011I00000cikY9QAI','0011I00000cikjKQAQ','0011I00000cikjXQAQ','0011I00000cikXoQAI','0011I00000cikfgQAA','0011I00000cikiDQAQ','0011I00000cikeoQAA','0011I00000cikDrQAI','0011I00000cik4CQAQ','0011I00000cikjiQAA','0011I00000cikjAQAQ','0011I00000cikYtQAI','0011I000018sxRzQAI','0011I000018sxSCQAY','0011I00000cikjcQAA','0011I00000cijxyQAA','0011I00000cikfmQAA','0011I00000cikiAQAQ','0011I00000cijLGQAY','0011I00000cikjMQAQ','0011I00000cikjaQAA','0011I00000cikjbQAA','0011I00000cinMuQAI','0011I00000cinJHQAY','0011I00000cinMwQAI','0011I00000cinN6QAI','0011I00000cinQeQAI','0011I00000xe6RtQAI','0011I00000cikiPQAQ','0011I00000cikCdQAI','0011I00000xraEFQAY','0011I00000cikQAQAY','0011I00000cikf5QAA')"
+        },
+        {
+            "name": "Contact",
+            "ignoreFields": "OwnerId,CreatedBy,CreatedDate",
+            "maxRecords": 500,
+            "orderBy": "Id",
+            "twoPassReferenceFields": "ReportsToId,ParentContact__c",
+            "where": "AccountId in('0011I00000cijyxQAA','0011I00000cikjNQAQ','0011I00000cikjSQAQ','0011I00000cikjhQAA','0011I00000cike9QAA','0011I00000cijo9QAA','0011I00000cijzcQAA','0011I00000cikfrQAA','0011I00000cikjlQAA','0011I00000cikj8QAA','0011I00000cikQ1QAI','0011I00000cijLEQAY','0011I00000cijL4QAI','0011I000018sxSDQAY','0011I00000cikeDQAQ','0011I00000cikPTQAY','0011I00000cikYQQAY','0011I000018svfQQAQ','0011I00000cikfYQAQ','0011I00000cikf3QAA','0011I00000cikigQAA','0011I00000cijp3QAA','0011I00000cikiZQAQ','0011I00000cRwIMQA0','0011I00000cRviLQAS','0011I00000cij8gQAA','0011I00000cijDxQAI','0011I00000cij8pQAA','0011I00000cij8mQAA','0011I00000cijCGQAY','0011I00000cRwIOQA0','0011I00000cijIPQAY','0011I00000cijKOQAY','0011I00000cijDtQAI','0011I000018sxKsQAI','0011I00000cijpnQAA','0011I00000cilwVQAQ','0011I00000cikibQAA','0011I00000cijpWQAQ','0011I00000cikfwQAA','0011I00000cikjgQAA','0011I00000cikeYQAQ','0011I00000cikY9QAI','0011I00000cikjKQAQ','0011I00000cikjXQAQ','0011I00000cikXoQAI','0011I00000cikfgQAA','0011I00000cikiDQAQ','0011I00000cikeoQAA','0011I00000cikDrQAI','0011I00000cik4CQAQ','0011I00000cikjiQAA','0011I00000cikjAQAQ','0011I00000cikYtQAI','0011I000018sxRzQAI','0011I000018sxSCQAY','0011I00000cikjcQAA','0011I00000cijxyQAA','0011I00000cikfmQAA','0011I00000cikiAQAQ','0011I00000cijLGQAY','0011I00000cikjMQAQ','0011I00000cikjaQAA','0011I00000cikjbQAA','0011I00000cinMuQAI','0011I00000cinJHQAY','0011I00000cinMwQAI','0011I00000cinN6QAI','0011I00000cinQeQAI','0011I00000xe6RtQAI','0011I00000cikiPQAQ','0011I00000cikCdQAI','0011I00000xraEFQAY','0011I00000cikQAQAY','0011I00000cikf5QAA')"
+        }
+        
+    ],
+    "sObjectsMetadata": [],
+    "rootFolder": "./ETCopyData",
+    "includeAllCustom": false,
+    "stopOnErrors": true,
+    "ignoreFields": "OwnerId, CreatedBy, CreatedDate",
+    "twoPassReferenceFields": null,
+    "maxRecordsEach": null,
+    "deleteDestination": false,
+    "pollingTimeout": 100000
+}

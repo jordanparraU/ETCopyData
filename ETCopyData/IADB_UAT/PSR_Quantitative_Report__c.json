@@ -1,0 +1,246 @@
+{
+	"fetched": 20,
+	"records": [
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cHzpQAE"
+			},
+			"Id": "a1p1I000001cHzpQAE",
+			"PSR_Achieved_Value_Aggregated__c": 20,
+			"PSR_Achievement_Date__c": "2017-12-28",
+			"PSR_Comment__c": "Idem: C.1.I.1 - Proyectos en fase de validación",
+			"PSR_Indicator_Execution__c": "a1c1I000001RCbHQAW",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-URIOXI1-293829"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cHzqQAE"
+			},
+			"Id": "a1p1I000001cHzqQAE",
+			"PSR_Achieved_Value_Aggregated__c": 0,
+			"PSR_Achievement_Date__c": "2017-12-28",
+			"PSR_Comment__c": null,
+			"PSR_Indicator_Execution__c": "a1c1I000001RCbIQAW",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-URIOXI2-293830"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cI8dQAE"
+			},
+			"Id": "a1p1I000001cI8dQAE",
+			"PSR_Achieved_Value_Aggregated__c": 31,
+			"PSR_Achievement_Date__c": "2018-05-21",
+			"PSR_Comment__c": "En el primer batch de startups de 2018, contamos con 11 empresas que están en la etapa de validación de sus emprendimientos. Estas se suman a las 20 empresas que completaron la etapa de validación en los batches de 2016 y 2017 para dar el total de 31 empr",
+			"PSR_Indicator_Execution__c": "a1c1I000001RCbHQAW",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-URIOXI1-297810"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cIFMQA2"
+			},
+			"Id": "a1p1I000001cIFMQA2",
+			"PSR_Achieved_Value_Aggregated__c": 37,
+			"PSR_Achievement_Date__c": "2018-12-31",
+			"PSR_Comment__c": "En el segundo batch de 2918 sumamos 6 startups, todas actualmente en etapa de validación: AccountantSmile, CREAtuHogar, IRC, MadMax, NIVA, y Simple Training.",
+			"PSR_Indicator_Execution__c": "a1c1I000001RCbHQAW",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-URIOXI1-305651"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTWhQAM"
+			},
+			"Id": "a1p1I000001cTWhQAM",
+			"PSR_Achieved_Value_Aggregated__c": 20,
+			"PSR_Achievement_Date__c": "2017-12-28",
+			"PSR_Comment__c": "13 startups seleccionadas para la fase de Ideación (Selección) en la primera tanda. De las mismas, 12 completaron la fase de Validación. La startup “I knew it” abandonó el programa.  12 startups seleccionadas para la fase de Ideación (Selección) en la seg",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKLQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98743-293515"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTYjQAM"
+			},
+			"Id": "a1p1I000001cTYjQAM",
+			"PSR_Achieved_Value_Aggregated__c": 14,
+			"PSR_Achievement_Date__c": "2017-12-28",
+			"PSR_Comment__c": "1) AppsIn5 http://www.appsinfive.com/ AppsIn5 es una aplicación para generar aplicaciones móviles para eventos en distintas industrias verticales: congresos, ferias, conciertos, temporadas. Es una aplicación para no programadores que permite crear y gesti",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKMQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98744-293730"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTYsQAM"
+			},
+			"Id": "a1p1I000001cTYsQAM",
+			"PSR_Achieved_Value_Aggregated__c": 0,
+			"PSR_Achievement_Date__c": "2017-12-28",
+			"PSR_Comment__c": "Hemos trabajado con varias de las startups en la realización de planes de trabajo para distintas instancias, como por ejemplo presentarse a proyectos ANII, a inversores, y otros. Pero aún no hemos definido un formato estándar para presentarlos. Estamos tr",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKNQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98745-293743"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTZJQA2"
+			},
+			"Id": "a1p1I000001cTZJQA2",
+			"PSR_Achieved_Value_Aggregated__c": 1,
+			"PSR_Achievement_Date__c": "2017-12-07",
+			"PSR_Comment__c": "La empresa Schandy aprobó nuestra propuesta de Corporate Venturing. El trabajo en este proyecto comenzará en febrero de este año. Se adjunta la propuesta aprobada y el email de confirmación de la empresa.",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKPQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98748-293787"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTwzQAE"
+			},
+			"Id": "a1p1I000001cTwzQAE",
+			"PSR_Achieved_Value_Aggregated__c": 31,
+			"PSR_Achievement_Date__c": "2018-05-21",
+			"PSR_Comment__c": "En el primer batch de startups de 2018, contamos con 11 empresas que están en la etapa de validación de sus emprendimientos. Estas se suman a las 20 empresas que completaron la etapa de validación en los batches de 2016 y 2017 para dar el total de 31 empr",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKLQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98743-297648"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTxUQAU"
+			},
+			"Id": "a1p1I000001cTxUQAU",
+			"PSR_Achieved_Value_Aggregated__c": 16,
+			"PSR_Achievement_Date__c": "2018-05-02",
+			"PSR_Comment__c": "Se suman dos productos a los 14 ya reportados en el PSR anterior.  1) GalenoSys http://www.dataflow.com.uy/Galeno1.html GalenoSys. Es un sistema de monitoreo remoto basado en “Internet of Things”, con fines de diagnóstico y asistencia al tratamiento de pa",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKMQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98744-297695"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTxoQAE"
+			},
+			"Id": "a1p1I000001cTxoQAE",
+			"PSR_Achieved_Value_Aggregated__c": 1,
+			"PSR_Achievement_Date__c": "2018-06-28",
+			"PSR_Comment__c": "En los meses de abril mayo y junio se realizó la primera etapa de la actividad “Metodología de Corporate Ventures (CV): benchmarking, consolidar existente, propuesta de metodología”, consistente en sistematizar el conocimiento interno de ThalesLab y GeneX",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKOQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98747-297740"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTxrQAE"
+			},
+			"Id": "a1p1I000001cTxrQAE",
+			"PSR_Achieved_Value_Aggregated__c": 1,
+			"PSR_Achievement_Date__c": "2018-06-29",
+			"PSR_Comment__c": "El 20 de febrero se realizó la primera sesión de nivelación tecnológica con el equipo de disrupción tecnológica de la empresa de logística Schandy. Este equipo está formado por personal clave de las distintas áreas gerenciales y operativas de la empresa.",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKPQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98748-297751"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cTy3QAE"
+			},
+			"Id": "a1p1I000001cTy3QAE",
+			"PSR_Achieved_Value_Aggregated__c": 0,
+			"PSR_Achievement_Date__c": "2018-06-29",
+			"PSR_Comment__c": null,
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKSQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98751-297770"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cU3YQAU"
+			},
+			"Id": "a1p1I000001cU3YQAU",
+			"PSR_Achieved_Value_Aggregated__c": 0,
+			"PSR_Achievement_Date__c": "2018-06-28",
+			"PSR_Comment__c": "Aún no implementamos el sistema de monitoreo porque continuamos evaluando herramientas o hacerlo directamente in-house, ya que las herramientas disponibles no parecen adecuadas para la realidad específica de ThalesLab. Esperamos implementarlo antes de fin",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKQQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98749-298924"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cUDRQA2"
+			},
+			"Id": "a1p1I000001cUDRQA2",
+			"PSR_Achieved_Value_Aggregated__c": 37,
+			"PSR_Achievement_Date__c": "2018-12-31",
+			"PSR_Comment__c": "En el segundo batch de startups de 2018, sumamos 6 empresas que están en la etapa de validación de sus emprendimientos. Estas se suman a las 31 empresas que completaron la etapa de validación en los batches de 2016, 2017, y primer batch de 2018, para dar",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKLQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98743-305190"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cUDSQA2"
+			},
+			"Id": "a1p1I000001cUDSQA2",
+			"PSR_Achieved_Value_Aggregated__c": 23,
+			"PSR_Achievement_Date__c": "2018-12-31",
+			"PSR_Comment__c": "Se suman 7 nuevos productos a los 16 reportados hasta el PSR anterior.",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKMQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98742-98744-305191"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cUDTQA2"
+			},
+			"Id": "a1p1I000001cUDTQA2",
+			"PSR_Achieved_Value_Aggregated__c": 2,
+			"PSR_Achievement_Date__c": "2018-12-31",
+			"PSR_Comment__c": "En la 2a mitad del año trabajamos con Nodus (ex Schandy) en analizar el potencial de las más de 100 ideas surgidas de la etapa de brainstorming y seleccionar 10 de ellas para presentar al la directiva del grupo, de allí surgieron 4 proyectos (3 prioritari",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKPQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98748-305192"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cUHAQA2"
+			},
+			"Id": "a1p1I000001cUHAQA2",
+			"PSR_Achieved_Value_Aggregated__c": 0,
+			"PSR_Achievement_Date__c": "2018-12-31",
+			"PSR_Comment__c": "Actualmente estamos diseñando un sistema de monitoreo propio, ya que las herramientas evaluadas no nos parecieron adecuadas para la realidad específica de ThalesLab. Esperamos tenerlo implementado para mediados de 2019.",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKQQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98749-305638"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1p1I000001cUHFQA2"
+			},
+			"Id": "a1p1I000001cUHFQA2",
+			"PSR_Achieved_Value_Aggregated__c": 1,
+			"PSR_Achievement_Date__c": "2018-12-31",
+			"PSR_Comment__c": "Participamos en el Conversatorio con sector privado en Paraguay y organizamos un taller de innovación en las oficinas del BID para 30 empresarios y emprendedores de Paraguay.",
+			"PSR_Indicator_Execution__c": "a1c1I000001RHKSQA4",
+			"PSR_Quantitative_Report_ID__c": "ATN/ME-15951-UR98746-98751-305646"
+		},
+		{
+			"attributes": {
+				"type": "PSR_Quantitative_Report__c",
+				"url": "/services/data/v48.0/sobjects/PSR_Quantitative_Report__c/a1pJ0000003AG1SIAW"
+			},
+			"Id": "a1pJ0000003AG1SIAW",
+			"PSR_Achieved_Value_Aggregated__c": 1,
+			"PSR_Achievement_Date__c": "2020-02-04",
+			"PSR_Comment__c": null,
+			"PSR_Indicator_Execution__c": "a1c1I000001RHTBQA4",
+			"PSR_Quantitative_Report_ID__c": null
+		}
+	],
+	"total": 20
+}
